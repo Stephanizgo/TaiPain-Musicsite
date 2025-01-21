@@ -110,3 +110,6 @@ nav a:hover::before {
     background-color: rgb(142, 40, 40);
     padding: 10px;
 }
+body {
+  text-align: center;;
+}
